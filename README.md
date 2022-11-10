@@ -213,7 +213,7 @@ Las acciones de GitHub se adelantaron y crearon una rama y un pull request para 
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Paso 5: Fusiona tu pull request</h2></summary>
 
 _Gran trabajo añadiendo una lista de tareas a tu archivo_ :heart:
@@ -232,7 +232,7 @@ Ya puedes [fusionar](https://docs.github.com/get-started/quickstart/github-gloss
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finalización</h2></summary>
 
 _¡Enhorabuena, has completado el curso!_
