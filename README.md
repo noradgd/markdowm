@@ -168,7 +168,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Paso 4: Haz una lista de tareas</h2></summary>
 
 _Gran trabajo añadiendo un ejemplo de código_ :partying_face:
@@ -213,7 +213,7 @@ Las acciones de GitHub se adelantaron y crearon una rama y un pull request para 
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Paso 5: Fusiona tu pull request</h2></summary>
 
 _Gran trabajo añadiendo una lista de tareas a tu archivo_ :heart:
