@@ -96,7 +96,7 @@ _¡Bienvenida/o a "Comunicar usando Markdown"!_ :wave:
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Paso 2: Añade una imagen</h2></summary>
 
 _Buen trabajo añadiendo esos encabezados_ :sparkles:
@@ -129,7 +129,7 @@ Vamos a añadir una imagen. Incluye un texto descriptivo entre los corchetes. Es
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Paso 3: Añade un ejemplo de código</h2></summary>
 
 _Buen trabajo añadiendo esa imagen_ :tada:
