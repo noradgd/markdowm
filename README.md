@@ -129,7 +129,7 @@ Vamos a añadir una imagen. Incluye un texto descriptivo entre los corchetes. Es
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Paso 3: Añade un ejemplo de código</h2></summary>
 
 _Buen trabajo añadiendo esa imagen_ :tada:
@@ -168,7 +168,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Paso 4: Haz una lista de tareas</h2></summary>
 
 _Gran trabajo añadiendo un ejemplo de código_ :partying_face:
