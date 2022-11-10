@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Paso 1: Añade encabezados</h2></summary>
 
 _¡Bienvenida/o a "Comunicar usando Markdown"!_ :wave:
@@ -96,7 +96,7 @@ _¡Bienvenida/o a "Comunicar usando Markdown"!_ :wave:
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Paso 2: Añade una imagen</h2></summary>
 
 _Buen trabajo añadiendo esos encabezados_ :sparkles:
